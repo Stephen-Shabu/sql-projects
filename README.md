@@ -9,17 +9,17 @@ Welcome to my SQL portfolio! This repository showcases a collection of SQL proje
 **1. Data Migration**
 
 **Description**: This project involves migrating some data from an internet usage dataset from the ONS into MySQL
-- Migrate target from
-- Standardise formats
-- Export data from spreadsheet, import into MySQL
+- Extract target data from dataset
+- Clean target data, readying it for export
+- Export data from spreadsheet, import into MySQL an run queries
 
 ---
 
 **2. Consolidating and Blending Data**
 
-**Description**: This project involves blending sales data from years into one data set
+**Description**: This project involves blending sales data from 2 different years into one dataset
 - Improting datasets into MySQL
-- Consolidating the two data sets 
+- Consolidating the two data sets by joining them 
 - Exporting the combined data sets
 - Using the combined data to generate charts and graphs
 
