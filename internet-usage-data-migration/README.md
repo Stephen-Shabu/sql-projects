@@ -46,7 +46,7 @@ USE internet_usage;
 
 Next I used the import table data wizard to import the csv file I exported. This allowed me to create a new table called recent_internetusage.
 
-![Image of internet usage dataset](screenshots/recent_usagedata.png)
+![Image of internet usage dataset](screenshots/recent_internetusage.png)
 
 Once the data was successfully imported, 12 records were created which corresponds to the amount of rows in the spreadsheet. To make sure all the data was imported correctly I ran the following command.
 
@@ -58,4 +58,4 @@ SELECT * FROM recent_internetusage;
 
 The results from that query were a table with all 12 records as seen below.
 
-![Image of internet usage dataset](screenshots/recent_usagedata.png)
+![Image of internet usage dataset](screenshots/records.png)
