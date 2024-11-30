@@ -6,7 +6,7 @@ Welcome to my SQL portfolio! This repository showcases a collection of SQL proje
 
  ### 📁 Projects Overview
 
-**1. Data Migration**
+[**1. Data Migration**](https://github.com/Stephen-Shabu/sql-projects/tree/main/internet-usage-data-migration)
 
 **Description**: This project involves migrating some data from an internet usage dataset from the ONS into MySQL
 - Extract target data from dataset
