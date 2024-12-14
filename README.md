@@ -15,7 +15,7 @@ Welcome to my SQL portfolio! This repository showcases a collection of SQL proje
 
 ---
 
-**2. Consolidating and Blending Data**
+[**2. Consolidating and Blending Data**](https://github.com/Stephen-Shabu/sql-projects/tree/main/combined-sales-data)
 
 **Description**: This project involves blending sales data from 2 different years into one dataset
 - Importing datasets into MySQL
