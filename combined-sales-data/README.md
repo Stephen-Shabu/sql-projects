@@ -1,6 +1,6 @@
 # Overview
 
-In this project I was tasked to combine some sales data from different years, to export the combined sales data and to analyse the data using Open Office
+In this project I was tasked to combine some sales data from different years, to export the combined sales data and to analyse the data using Open Office.
 
 ### Combining the data
 
@@ -23,11 +23,11 @@ SELECT * FROM sales2023;
 ```
 ![Image of combined sales](screenshots/combinedsales.png)
 
-I exported the combined sales as csv file ready for it to be imported into excel for further analysis
+I exported the combined sales as csv file ready for it to be imported into Open Office for further analysis.
 
 ### Using the combined sales data
 
-Using Open Office I imported the combined sales data and created a pivot table that would allow me to extract specific data to use to generate charts and graphs
+Using Open Office I imported the combined sales data and created a pivot table that would allow me to extract specific data to generate charts and graphs.
 
 I created a pivot table with the month as a row field, the year as a column field and the sum of sales a data field
 
@@ -35,11 +35,4 @@ I created a pivot table with the month as a row field, the year as a column fiel
 
 Using this pivot table I created a bar chart that displays the sales by month for each year. We can see how sales in 2023 fared against sales in 2022 by month.
 
-
 ![Image of bar chart](screenshots/barchart.png)
-
-
-
-
-
-
