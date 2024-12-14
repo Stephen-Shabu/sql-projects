@@ -10,6 +10,7 @@ MySQL and creating 2 tables.
 After importing the two csv files, I had two tables with sales records from 2022 and 2023 as seen below.
 
 ![Image of 2022 sales](screenshots/sales2022.png)
+![Image of 2023 sales](screenshots/sales2023.png)
 
 To combine the 2 data I ran a Union All query, which resulted in both the 2022 and 2023 data being combined into one list.
 
